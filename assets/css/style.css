@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    font-family: "Pathway Gothic One", serif;
+    font-size: 30px;
+    color: #feda4a;
+}
+
+footer {
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: grey;
+    text-align: center;
+}
+
+header{
+    font-size: 30px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0;
+    background-color: black;
+    text-align: center;
+}
